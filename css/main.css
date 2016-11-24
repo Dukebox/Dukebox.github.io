@@ -37,7 +37,7 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px) {
 txt{
  color:white;
- font-size: 20px;	
+ font-size: 45px;	
 }
 }
 
@@ -48,7 +48,7 @@ and (max-device-width : 1024px)
 and (orientation : landscape) {
 txt{
  color:white;
- font-size: 20px;	
+ font-size: 45px;	
 }
 }
 
@@ -59,7 +59,7 @@ and (max-device-width : 1024px)
 and (orientation : portrait) {
 txt{
  color:white;
- font-size: 20px;	
+ font-size: 45px;	
 }
 }
 
