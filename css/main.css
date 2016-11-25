@@ -2,11 +2,10 @@
 body {
 	background-color: #2fb0bc;
         font-family: Courier;
+	color:white;	
+
 }
 
-txt {
-color:white;	
-}
 #banner{
 margin-left:auto;
 margin-right:auto;
@@ -20,7 +19,23 @@ ul{
 list-style-type:none;
 margin: 0;
 text-align:center;
+width:200px;
 }
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+}
+
+
+li a:hover {
+    background-color: white;
+    color: #2fb0bc;
+}
+
+
+
 #Middlebutton{
 	
 }
