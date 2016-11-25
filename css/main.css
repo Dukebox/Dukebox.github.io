@@ -17,6 +17,8 @@ background-color: #2fb0bc;
 }
 
 ul{
+margin-left:auto;
+margin-right:auto;
 background-color:white;
 list-style-type:none;
 margin: 0;
