@@ -11,10 +11,16 @@ color:white;
 margin-left:auto;
 margin-right:auto;
 text-align:center;
+font-size:200%;
 width:500px;
-background-color:green;
+background-color: #2fb0bc;
 }
 
+ul{
+list-style-type:none;
+margin: 0;
+text-align:center;
+}
 #Middlebutton{
 	
 }
