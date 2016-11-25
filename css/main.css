@@ -2,7 +2,6 @@
 body {
 	background-color: #2fb0bc;
         font-family: Courier;
-	color:#2fb0bc;	
 
 }
 
@@ -17,8 +16,8 @@ background-color: #2fb0bc;
 }
 
 ul{
-margin-left:auto;
-margin-right:auto;
+
+color:#2fb0bc;
 background-color:white;
 list-style-type:none;
 margin: 0;
@@ -45,6 +44,8 @@ li a:hover {
 }
 
 #Mainbody{
+margin-left:auto;
+margin-right:auto;
 	
 }
 
