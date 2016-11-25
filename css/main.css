@@ -2,20 +2,22 @@
 body {
 	background-color: #2fb0bc;
         font-family: Courier;
-	color:white;	
+	color:#2fb0bc;	
 
 }
 
 #banner{
+color:white;
 margin-left:auto;
 margin-right:auto;
 text-align:center;
-font-size:200%;
+font-size:250%;
 width:500px;
 background-color: #2fb0bc;
 }
 
 ul{
+background-color:white;
 list-style-type:none;
 margin: 0;
 text-align:center;
