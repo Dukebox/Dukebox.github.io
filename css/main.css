@@ -3,90 +3,24 @@ body {
 	background-color: #2fb0bc;
 }
 
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-txt{
- color:white;
- font-size: 10px;	
-}
+txt {
+color:white;	
 }
 
-/* Smartphones (landscape) ----------- */
-@media only screen 
-and (min-width : 321px) {
-txt{
- color:white;
- font-size: 10px;	
-}
+banner{
+margin-left:auto;
+margin-right:auto;
+background-color:green;
 }
 
-/* Smartphones (portrait) ----------- */
-@media only screen 
-and (max-width : 320px) {
-txt{
- color:white;
- font-size: 10px;	
-}
+Middlebutton{
+	
 }
 
-/* iPads (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) {
-txt{
- color:white;
- font-size: 45px;	
-}
+Mainbody{
+	
 }
 
-/* iPads (landscape) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : landscape) {
-txt{
- color:white;
- font-size: 45px;	
-}
-}
-
-/* iPads (portrait) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : portrait) {
-txt{
- color:white;
- font-size: 45px;	
-}
-}
-
-/* Desktops and laptops ----------- */
-@media only screen 
-and (min-width : 1224px) {
-txt{
- color:white;
- font-size: 30px;	
-}
-}
-
-/* Large screens ----------- */
-@media only screen 
-and (min-width : 1824px) {
-txt{
- color:white;
- font-size: 40px;	
-}
-}
-
-/* iPhone 4 ----------- */
-@media
-only screen and (-webkit-min-device-pixel-ratio : 1.5),
-only screen and (min-device-pixel-ratio : 1.5) {
-txt{
- color:white;
- font-size: 10px;	
-}
+footer{
+	
 }
