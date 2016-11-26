@@ -1,8 +1,10 @@
 body {
 	background: url("https://images.alphacoders.com/744/74453.jpg") no-repeat fixed 100%;
          font-family: Courier;
-	width:100%;
-	height:100%;
+	background-repeat:no-repeat;
+        background-size:contain;
+        background-position:center;
+
 		  
 	    
 
