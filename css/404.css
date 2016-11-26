@@ -1,0 +1,65 @@
+body {
+	background: url("https://images.alphacoders.com/744/74453.jpg") no-repeat fixed 100%;
+         font-family: Courier;
+		  
+	    
+
+}
+
+#banner{
+
+color:white;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+font-size:350%;
+width:500px;
+background-color:rgba(47,176,188);
+}
+
+ul{
+font-size:200%;
+font-family: Courier;
+text-align: center;
+vertical-align: middle;
+line-height: 150px; 
+opacity:0.8;
+
+color:#2fb0bc;
+background-color:white;
+list-style-type:none;
+
+width:300px;
+height:150px;
+padding:0;
+margin-left:auto;
+margin-right:auto;
+}
+
+li a{
+	border-style:solid;
+    border-color:#2fb0bc;
+    display: block;
+	height:150px;
+  	
+}
+
+a{
+    text-decoration:none;color:#2fb0bc;
+	
+
+}
+
+li a:hover {
+    background-color:#2fb0bc ;
+    color:white;
+	
+}
+
+
+
+
+
+#footer{
+	
+}
