@@ -49,8 +49,7 @@ li a{
 }
 
 a{
-    text-decoration:none;color:#2fb0bc;
-	
+    text-decoration:none;color:#2fb0bc;	
 
 }
 
@@ -59,6 +58,8 @@ li a:hover {
     color:white;
 	
 }
+
+
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
@@ -69,3 +70,12 @@ li a:hover {
 ul{
  font-size:60%
  }
+	
+paragraph {
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    max-width: 300px;
+    height: 300px;
+    border: 1px solid black;
+} 
