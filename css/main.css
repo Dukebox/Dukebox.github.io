@@ -1,8 +1,10 @@
 body {
 	background: url("/media/pexels-photo-70234.jpeg") no-repeat fixed 100%;
-         font-family: Courier;
+        font-family: Courier;
 	background-repeat:no-repeat;
         background-size:cover;
+	margin:0;
+	
  
 
 }
@@ -29,6 +31,7 @@ line-height:150px;
 opacity:0.8;
 overflow:hidden;
 top:0;
+position: fixed;
 
 color:#2fb0bc;
 background-color:white;
