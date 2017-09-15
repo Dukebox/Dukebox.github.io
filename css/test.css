@@ -3,7 +3,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #2fb0bc;
+    background-color:white;
+    color:#2fb0bc;
     opacity:0.8;
     position: fixed;
     top: 0;
@@ -16,10 +17,11 @@ li {
 
 li a {
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border-style:solid;
+    border-color:#2fb0bc;
 }
 
 li a:hover:not(.active) {
