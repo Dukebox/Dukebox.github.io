@@ -25,10 +25,10 @@ ul{
 font-size:200%;
 font-family: Courier;
 text-align: center;
-vertical-align: middle;
 line-height:150px;
 opacity:0.8;
-overflow: hidden;
+overflow:hidden;
+top:0;
 
 color:#2fb0bc;
 background-color:white;
