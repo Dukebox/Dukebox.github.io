@@ -1,40 +1,51 @@
 body {
 	background: url("/media/pexels-photo-70234.jpeg") no-repeat fixed 100%;
-        font-family: Courier;
+         font-family: Courier;
 	background-repeat:no-repeat;
         background-size:cover;
-	margin:0;
-	
  
 
 }
 
+#banner{
 
-ul{
-    font-size:150%;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    opacity:0.8;
-    position: fixed;
-    top: 0;
-    width:33%;
-    height:100%;
+color:#2fb0bc;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+font-size:350%;
+width:33%;
+background-color:rgba(47,176,188);
 }
+#veticlemenu{
+margin-left:auto;
+margin-right:auto;	
+}
+ul{
+font-size:200%;
+font-family: Courier;
+text-align: center;
+vertical-align: middle;
+line-height:150px;
+opacity:0.8;
 
-li {
-    float: left;
+color:#2fb0bc;
+background-color:white;
+list-style-type:none;
+
+width:33%;
+height:100%;
+padding:0;
+margin-left:auto;
+margin-right:auto;
 }
 
 li a{
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    border-style:solid;
+	border-style:solid;
     border-color:#2fb0bc;
-    height:25%;
+    display: block;
+	height:25%;
+  	
 }
 
 a{
@@ -42,8 +53,7 @@ a{
 
 }
 
-
-li a:hover{
+li a:hover {
     background-color:#2fb0bc ;
     color:white;
 	
@@ -54,8 +64,12 @@ li a:hover{
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 /* Styles */
-
-
+#banner{
+  font-size:60%:
+  }
+ul{
+ font-size:60%
+ }
 	
 paragraph {
     float: left;
