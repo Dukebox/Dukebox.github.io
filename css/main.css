@@ -1,81 +1,49 @@
-body {
-	background: url("/media/pexels-photo-70234.jpeg") no-repeat fixed 100%;
-         font-family: Courier;
-	background-repeat:no-repeat;
-        background-size:cover;
- 
-
+ul {
+	font-size:125%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#0C4C67;
+    color:#0C4C67;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
-#banner{
-
-color:#0C4C67;
-margin-left:auto;
-margin-right:auto;
-text-align:center;
-font-size:350%;
-width:33%;
-background-color:#0C4C67;
-}
-#veticlemenu{
-margin-left:auto;
-margin-right:auto;	
-}
-ul{
-font-size:200%;
-font-family: Courier;
-text-align: center;
-vertical-align: middle;
-line-height:150px;
-opacity:0.8;
-
-color:#0C4C67;
-background-color:white;
-list-style-type:none;
-
-width:33%;
-height:100%;
-padding:0;
-margin-left:auto;
-margin-right:auto;
-}
-
-li a{
-	border-style:solid;
-    border-color:#2fb0bc;
-    display: block;
-	height:25%;
-  	
-}
-
-a{
-    text-decoration:none;color:#0C4C67;	
-
-}
-
-li a:hover {
-    background-color:#0C4C67 ;
-    color:white;
-	
-}
-
-
-
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-/* Styles */
-#banner{
-  font-size:60%:
-  }
-ul{
- font-size:60%
- }
-	
-paragraph {
+li {
     float: left;
-    margin: 5px;
-    padding: 15px;
-    max-width: 300px;
-    height: 300px;
-    border: 1px solid black;
-} 
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	color:white;
+    
+}
+
+li a:hover:not(.active) {
+    background-color:white;
+	color:#0C4C67;
+}
+
+.active {
+    background-color: #0C4C67;
+}
+text{
+	width:200px;
+	height:100px;
+	padding-top:60px;
+	margin:auto;
+	color:#0C4C67;
+	float: left;
+    width: 33.33%;
+	
+	
+}
+body {
+	
+	margin:0;    
+}
