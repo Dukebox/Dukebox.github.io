@@ -33,11 +33,11 @@ li a:hover:not(.active) {
     background-color: #0C4C67;
 }
 text{
-	padding-right:50%;
+	margin-left:auto;
+	margin-right:auto;
 	width:200px;
 	height:100px;
 	padding-top:60px;
-	margin:auto;
 	color:#0C4C67;
 	float: left;
         width: 33.33%;
