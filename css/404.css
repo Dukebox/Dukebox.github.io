@@ -33,6 +33,7 @@ li a:hover:not(.active) {
     background-color: #0C4C67;
 }
 text{
+	text-align:centre;
 	margin-left:auto;
 	margin-right:auto;
 	width:200px;
