@@ -1,1 +1,3 @@
-
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^http://jack-simpson.com.*$ http://jack-simpson.com/Home/ [R=301,L]
